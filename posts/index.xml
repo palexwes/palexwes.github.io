@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Alex West&#39;s Blog</title>
-    <link>http://palexwes.github.io/</link>
-    <description>Recent content on Alex West&#39;s Blog</description>
+    <title>Posts on Alex West&#39;s Blog</title>
+    <link>http://palexwes.github.io/posts/</link>
+    <description>Recent content in Posts on Alex West&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 02 Jul 2018 09:14:31 +0100</lastBuildDate>
     
-	<atom:link href="http://palexwes.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://palexwes.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
